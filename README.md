@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kimotokoji
-- 👀 I’m interested in electron microscopy
-- 🌱 I’m currently learning TEM, STEM, EELS and related data processing.
-- 🌱 I’m also learning git, python etc.
+- 👀 I’m interested in science.
+- 🌱 I’m currently learning github, python etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
